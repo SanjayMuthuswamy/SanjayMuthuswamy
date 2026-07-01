@@ -16,39 +16,6 @@ I'm currently focused on learning the Hugging Face ecosystem, fine-tuning transf
 
 ---
 
-## 💻 Tech Stack
-
-### Languages
-- Python
-- Java
-- SQL
-
-### AI & Machine Learning
-- PyTorch
-- Hugging Face Transformers
-- Scikit-learn
-- Pandas
-- NumPy
-
-### Backend
-- FastAPI
-
-### Frontend
-- React
-- Tailwind CSS
-
-### Database
-- PostgreSQL
-- MySQL
-
-### Tools
-- Git
-- GitHub
-- Docker
-- Google Colab
-
----
-
 ## 📌 Featured Projects
 
 ### 🤖 DistilBERT Fine-Tuning *(In Progress)*
