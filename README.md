@@ -16,15 +16,6 @@ I'm currently focused on learning the Hugging Face ecosystem, fine-tuning transf
 
 ---
 
-## 📌 Featured Projects
-
-### 🤖 DistilBERT Fine-Tuning *(In Progress)*
-Fine-tuning DistilBERT for sentiment classification using the Hugging Face Transformers ecosystem.
-
-### 🛡️ DeepFakeGuard
-Privacy-focused deepfake detection using deep learning.
-
----
 
 ## 🌱 Currently Learning
 
